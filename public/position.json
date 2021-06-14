@@ -1,0 +1,454 @@
+{
+    "result": [
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 5802581,
+            "positionName": "新媒体编辑",
+            "city": "深圳",
+            "createTime": "今天 17:19",
+            "salary": "15k-20k",
+            "companyId": 11197,
+            "companyLogo": "i/image/M00/2C/F0/CgpEMlkn1CmASVP2AAAQ1ULwWIU946.jpg",
+            "companyName": "爱问科技",
+            "companyFullName": "深圳爱问科技股份有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 5732955,
+            "positionName": "资深售前顾问",
+            "city": "上海",
+            "createTime": "今天 17:15",
+            "salary": "20k-30k",
+            "companyId": 188444,
+            "companyLogo": "i/image2/M01/1E/F4/CgoB5ly5pVuAPqQwAAArReCIEQQ684.png",
+            "companyName": "Linkflow",
+            "companyFullName": "上海源犀信息科技有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4618667,
+            "positionName": "C/C++研发工程师",
+            "city": "上海",
+            "createTime": "今天 17:08",
+            "salary": "11k-22k",
+            "companyId": 33278,
+            "companyLogo": "i/image/M00/9A/8F/CgqKkVihZ_OARyluAAASog9Z9z8701.png",
+            "companyName": "弘连网络",
+            "companyFullName": "上海弘连网络科技有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4775581,
+            "positionName": "经理助理",
+            "city": "广州",
+            "createTime": "今天 16:39",
+            "salary": "3k-6k",
+            "companyId": 333663,
+            "companyLogo": "i/image3/M00/2A/00/CgpOIFqc9QuAX5jzAABVs6hTcYU203.png",
+            "companyName": "KBON",
+            "companyFullName": "广州市铠邦信息科技有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 5701907,
+            "positionName": "计算机视觉算法工程师",
+            "city": "上海",
+            "createTime": "今天 16:10",
+            "salary": "30k-50k",
+            "companyId": 142027,
+            "companyLogo": "i/image2/M01/D5/19/CgoB5lxMfQCAfJjkAAEESfQlkQc404.png",
+            "companyName": "海深科技",
+            "companyFullName": "海深智能科技（上海）有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 5756733,
+            "positionName": "seo专员",
+            "city": "深圳",
+            "createTime": "今天 16:01",
+            "salary": "6k-10k",
+            "companyId": 221724,
+            "companyLogo": "i/image3/M00/3E/EC/Cgq2xlqxzCOAaIMbAACbIZZXNtE514.jpg",
+            "companyName": "诺达教育",
+            "companyFullName": "深圳市诺达教育股份有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4854303,
+            "positionName": "策划经理",
+            "city": "北京",
+            "createTime": "今天 15:19",
+            "salary": "10k-15k",
+            "companyId": 35277,
+            "companyLogo": "i/image/M00/3A/AF/Cgp3O1dqDQiAE-clAACOQ1x4tkg533.png",
+            "companyName": "橘子娱乐",
+            "companyFullName": "北京橘子文化传媒有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4706653,
+            "positionName": "Java研发工程师",
+            "city": "北京",
+            "createTime": "今天 15:16",
+            "salary": "10k-20k",
+            "companyId": 23727,
+            "companyLogo": "i/image/M00/00/6D/CgqKkVZJj_qAIz4tAAAZsDXnarY482.jpg",
+            "companyName": "知网",
+            "companyFullName": "同方知网（北京）技术有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4807310,
+            "positionName": "人事专员",
+            "city": "成都",
+            "createTime": "今天 15:11",
+            "salary": "4k-6k",
+            "companyId": 303525,
+            "companyLogo": "i/image3/M00/48/2A/Cgq2xlrLIEiAXVIOAACuDk-AqOI017.jpg",
+            "companyName": "中国人寿",
+            "companyFullName": "中国人寿保险股份有限公司成都市分公司锦城营销服务部"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4807261,
+            "positionName": "大学生创业干部",
+            "city": "成都",
+            "createTime": "今天 15:11",
+            "salary": "6k-8k",
+            "companyId": 303525,
+            "companyLogo": "i/image3/M00/48/2A/Cgq2xlrLIEiAXVIOAACuDk-AqOI017.jpg",
+            "companyName": "中国人寿",
+            "companyFullName": "中国人寿保险股份有限公司成都市分公司锦城营销服务部"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4616347,
+            "positionName": "资深研发工程师/技术专家",
+            "city": "上海",
+            "createTime": "今天 14:13",
+            "salary": "15k-30k",
+            "companyId": 42720,
+            "companyLogo": "i/image/M00/25/EC/Cgp3O1cgEiuAfZpVAAAc9ghA-N8946.JPG",
+            "companyName": "北京瑞达恒建筑咨询有限公司广州分公司",
+            "companyFullName": "北京瑞达恒建筑咨询有限公司广州分公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 5695380,
+            "positionName": "摄像 剪辑师",
+            "city": "北京",
+            "createTime": "今天 13:41",
+            "salary": "3k-6k",
+            "companyId": 436571,
+            "companyLogo": "i/image2/M01/7D/BD/CgoB5lt26V2AWhp7AABwfWznQ2k677.png",
+            "companyName": "觅蕊合宅",
+            "companyFullName": "觅蕊合宅国际文化传媒（北京）有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 5841712,
+            "positionName": "天猫售后客服",
+            "city": "杭州",
+            "createTime": "今天 11:34",
+            "salary": "4k-6k",
+            "companyId": 363378,
+            "companyLogo": "i/image2/M00/44/DE/CgotOVrNs42ANkKfAACI2cg8mik209.jpg",
+            "companyName": "书豪图书",
+            "companyFullName": "杭州书豪图书有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 5674139,
+            "positionName": "链家门店直招|毕业生|实习生",
+            "city": "成都",
+            "createTime": "今天 11:02",
+            "salary": "4k-6k",
+            "companyId": 524551,
+            "companyLogo": "i/image2/M01/F5/F0/CgotOVyEdFaAb6_6AAAQzFph8Bw523.png",
+            "companyName": "链家地产",
+            "companyFullName": "四川链家房地产经纪有限公司锦华路二段分公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4604165,
+            "positionName": "电商新媒体品牌策划",
+            "city": "武汉",
+            "createTime": "今天 10:24",
+            "salary": "7k-10k",
+            "companyId": 108516,
+            "companyLogo": "i/image/M00/00/FD/CgqKkVZdRCmADzldAAATtzNXVfM738.jpg",
+            "companyName": "仰融贸易",
+            "companyFullName": "广州仰融贸易有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4857446,
+            "positionName": "销售经理",
+            "city": "成都",
+            "createTime": "今天 15:11",
+            "salary": "10k-15k",
+            "companyId": 303525,
+            "companyLogo": "i/image3/M00/48/2A/Cgq2xlrLIEiAXVIOAACuDk-AqOI017.jpg",
+            "companyName": "中国人寿",
+            "companyFullName": "中国人寿保险股份有限公司成都市分公司锦城营销服务部"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4664964,
+            "positionName": "资深Java开发工程师",
+            "city": "佛山",
+            "createTime": "今天 09:54",
+            "salary": "18k-24k",
+            "companyId": 149167,
+            "companyLogo": "i/image3/M01/8A/18/Cgq2xl6ZRZKAJhwpAAFaLj5FYMk162.jpg",
+            "companyName": "美云智数",
+            "companyFullName": "广东美云智数科技有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4822801,
+            "positionName": "高级前端开发工程师",
+            "city": "佛山",
+            "createTime": "今天 09:54",
+            "salary": "18k-30k",
+            "companyId": 149167,
+            "companyLogo": "i/image3/M01/8A/18/Cgq2xl6ZRZKAJhwpAAFaLj5FYMk162.jpg",
+            "companyName": "美云智数",
+            "companyFullName": "广东美云智数科技有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 5754174,
+            "positionName": "python开发",
+            "city": "宁波",
+            "createTime": "今天 09:50",
+            "salary": "15k-20k",
+            "companyId": 125511,
+            "companyLogo": "i/image/M00/22/67/CgqKkVcUsn2AFLMkAAAQb0ekqzM393.jpg",
+            "companyName": "欧督（成都）",
+            "companyFullName": "成都欧督系统科技有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4741885,
+            "positionName": "高级WEB前端开发工程师",
+            "city": "中山",
+            "createTime": "今天 09:50",
+            "salary": "10k-15k",
+            "companyId": 405583,
+            "companyLogo": "i/image2/M01/6A/2C/CgotOV06oKWAap3wAAC3rQ4vYZc462.png",
+            "companyName": "可圣",
+            "companyFullName": "中山市可圣电子商务有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4777833,
+            "positionName": "高级JAVA后端开发工程师",
+            "city": "中山",
+            "createTime": "今天 09:50",
+            "salary": "13k-15k",
+            "companyId": 405583,
+            "companyLogo": "i/image2/M01/6A/2C/CgotOV06oKWAap3wAAC3rQ4vYZc462.png",
+            "companyName": "可圣",
+            "companyFullName": "中山市可圣电子商务有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4658762,
+            "positionName": "UI设计",
+            "city": "杭州",
+            "createTime": "今天 09:43",
+            "salary": "4k-8k",
+            "companyId": 293708,
+            "companyLogo": "i/image2/M00/47/A9/CgoB5lrawIaAc0v-AABGGWkP3f8758.jpg",
+            "companyName": "中惠科技",
+            "companyFullName": "杭州中惠网络科技有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4774786,
+            "positionName": "高级内容运营",
+            "city": "北京",
+            "createTime": "今天 09:40",
+            "salary": "9k-18k",
+            "companyId": 409403,
+            "companyLogo": "i/image2/M01/85/FF/CgotOVuMsnGAHf1eAAHwgaj-BYk501.jpg",
+            "companyName": "相待文化",
+            "companyFullName": "杭州相待文化传媒有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 5752026,
+            "positionName": "产品经理",
+            "city": "杭州",
+            "createTime": "今天 09:39",
+            "salary": "15k-22k",
+            "companyId": 89089,
+            "companyLogo": "i/image/M00/68/77/CgpFT1mst9mAWN1AAAA0uRJXIrk751.jpg",
+            "companyName": "浙江安厨大数据技术有限公司",
+            "companyFullName": "浙江安厨大数据技术有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4831261,
+            "positionName": "海外发行经理",
+            "city": "北京",
+            "createTime": "今天 09:34",
+            "salary": "8k-16k",
+            "companyId": 61344,
+            "companyLogo": "image1/M00/1F/A3/CgYXBlU0euCAZC0kAABCjk5YvRw693.jpg",
+            "companyName": "NoahMob",
+            "companyFullName": "诺亚生活科技（北京）有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 5712992,
+            "positionName": "需求分析实习生",
+            "city": "深圳",
+            "createTime": "今天 09:28",
+            "salary": "3k-6k",
+            "companyId": 98603,
+            "companyLogo": "i/image3/M00/21/4D/Cgq2xlqTuRuAWOxnAAAGx5fUt_Y686.png",
+            "companyName": "通世界科技",
+            "companyFullName": "深圳通世界科技有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4836118,
+            "positionName": "WEB前端讲师",
+            "city": "北京",
+            "createTime": "今天 09:23",
+            "salary": "20k-30k",
+            "companyId": 114259,
+            "companyLogo": "i/image/M00/03/9A/CgqKkVbBkYyAV_3AAAAYK2bvgTg524.png",
+            "companyName": "北京八维研修学院",
+            "companyFullName": "北京八维研修学院"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 5727616,
+            "positionName": "急聘考研授课兼职老师",
+            "city": "北京",
+            "createTime": "今天 09:08",
+            "salary": "2k-4k",
+            "companyId": 477109,
+            "companyLogo": "i/image2/M01/3A/49/CgoB5lzrnmyAT8GtAAATxg8VnlM311.jpg",
+            "companyName": "致硕考研",
+            "companyFullName": "北京致硕教育科技有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 4794324,
+            "positionName": "后端开发工程师",
+            "city": "上海",
+            "createTime": "今天 08:59",
+            "salary": "15k-23k",
+            "companyId": 215913,
+            "companyLogo": "i/image/M00/8F/73/Ciqc1GAH_FqAK_5MAAAafd6QPQM908.png",
+            "companyName": "汉图科技",
+            "companyFullName": "上海汉图科技有限公司"
+        },
+        {
+            "logger": {
+                "traceCapable": true,
+                "name": "com.lagou.entity.mobile.MobilePosition"
+            },
+            "positionId": 5756005,
+            "positionName": "营销筹备经理",
+            "city": "武汉",
+            "createTime": "今天 08:39",
+            "salary": "10k-20k",
+            "companyId": 442725,
+            "companyLogo": "i/image2/M01/86/BF/CgoB5luOAzyAcmpYAAEWrzYcD5A117.jpg",
+            "companyName": "中国人寿江北区拓支公...",
+            "companyFullName": "中国人寿保险股份有限公司武汉市硚口区支公司"
+        }
+    ]
+}
