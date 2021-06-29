@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
-const Home = () => <div>Home</div>;
-const About = () => <div>About</div>;
-const DashBoard = () => <div>DashBoard</div>;
+const Home = () => <h4>Home</h4>;
+const About = () => <h4>About</h4>;
+const DashBoard = () => <h4>DashBoard</h4>;
 
 class Basic extends Component {
     state = {};
