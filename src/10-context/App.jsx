@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Provider, testContext, Consumer } from "./testContext";
 
+// subscribe context in class component
 class Child1 extends Component {
     static contextType = testContext;
     render() {
@@ -15,6 +16,7 @@ class Child2 extends Component {
     }
 }
 
+// subscribe context in function component
 const Child4 = () => {
     return (
         <div>
