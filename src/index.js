@@ -39,3 +39,7 @@ render(); */
 //     document.getElementById("root")
 // );
 ReactDOM.render(<UseEffect />, document.getElementById("root"));
+
+// setTimeout(() => {
+//     ReactDOM.unmountComponentAtNode(document.querySelector("#root"));
+// }, 3000);
